@@ -1,9 +1,6 @@
 [package]
-description = "ternary-color - SuperInstance ecosystem crate"
-repository = "https://github.com/SuperInstance/ternary-color"
 name = "ternary-color"
 version = "0.1.0"
-license = "MIT OR Apache-2.0"
 edition = "2021"
-
-[dependencies]
+license = "MIT"
+description = "Color theory and perception with ternary classification"
